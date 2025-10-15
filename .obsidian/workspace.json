@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST.md",
+                "file": "TEST2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEST"
+              "title": "TEST2"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEST.md",
+                "file": "TEST2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "TEST 的反向链接列表"
+              "title": "TEST2 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEST.md",
+                "file": "TEST2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "TEST 的出链列表"
+              "title": "TEST2 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEST.md",
+                "file": "TEST2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TEST 的大纲"
+              "title": "TEST2 的大纲"
             }
           }
         ]
@@ -171,7 +171,8 @@
   },
   "active": "d9506082ac3cea10",
   "lastOpenFiles": [
+    "TEST.md",
     "README.md",
-    "TEST.md"
+    "TEST2.md"
   ]
 }
